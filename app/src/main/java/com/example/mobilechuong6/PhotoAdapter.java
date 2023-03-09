@@ -17,7 +17,6 @@ public class PhotoAdapter extends BaseAdapter {
 
     private ArrayList<Photo> photo_list;
     private Context context;
-
     public PhotoAdapter(ArrayList<Photo> photo_list, Context context) {
         this.photo_list = photo_list;
         this.context = context;

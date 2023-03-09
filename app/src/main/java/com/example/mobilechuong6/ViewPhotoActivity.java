@@ -23,9 +23,9 @@ public class ViewPhotoActivity extends AppCompatActivity {
 
         int id = (int) getIntent().getLongExtra("id", 0);
 
-        Picasso.get().load(PhotoData.getPhotoFromId(id).getSource_photo()).resize(400,500).centerCrop().into(iv_detail);
-        tv_detail_title.setText((PhotoData.getPhotoFromId(id).getTitle_photo()));
-        tv_detail_description.setText((PhotoData.getPhotoFromId(id).getDescription_photo()));
+        Picasso.get().load(PhotoData.getPhotoFromId(id, getApplicationContext()).getSource_photo()).resize(400,500).centerCrop().into(iv_detail);
+        tv_detail_title.setText((PhotoData.getPhotoFromId(id, getApplicationContext()).getTitle_photo()));
+        tv_detail_description.setText((PhotoData.getPhotoFromId(id, getApplicationContext()).getDescription_photo()));
 
     }
 }

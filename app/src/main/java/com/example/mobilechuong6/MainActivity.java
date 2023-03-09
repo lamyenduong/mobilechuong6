@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         gridView = findViewById(R.id.gridView);
-        PhotoAdapter photoAdapter = new PhotoAdapter(PhotoData.generatePhotoData(), getApplicationContext());
+        PhotoAdapter photoAdapter = new PhotoAdapter(PhotoData.generatePhotoData(getApplicationContext()), getApplicationContext());
         gridView.setAdapter(photoAdapter);
         gridView.setOnItemClickListener(onitemclick);
     }

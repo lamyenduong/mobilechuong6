@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <photos>
+        <string name="id">0</string>
+        <string name="url">
+            https://images.unsplash.com/photo-1595535373192-fc8935bacd89?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGVyZnVtZXxlbnwwfHwwfHw%3D&amp;w=1000&amp;q=80
+        </string>
+        <string name="title">Product 1</string>
+        <string name="caption">Ancient texts and archaeological excavations show the use of perfumes
+            in
+            some of the earliest human civilizations. Modern perfumery began in the late 19th
+            century with the commercial synthesis of aroma compounds such as vanillin or coumarin,
+            which allowed for the composition of perfumes with smells previously unattainable solely
+            from natural aromatics.
+        </string>
+    </photos>
+
+    <photos>
+        <string name="id">1</string>
+        <string name="url">https://images.unsplash.com/photo-1557827983-012eb6ea8dc1?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHBlcmZ1bWVzfGVufDB8fDB8fA%3D%3D&amp;w=1000&amp;q=80</string>
+        <string name="title">Product 2</string>
+        <string name="caption">Perfume types reflect the concentration of aromatic compounds in a
+            solvent, which in fine fragrance is typically ethanol or a mix of water and ethanol.
+            Various sources differ considerably in the definitions of perfume types. The intensity
+            and longevity of a perfume is based on the concentration, intensity, and longevity of
+            the aromatic compounds, or perfume oils, used. As the percentage of aromatic compounds
+            increases, so does the intensity and longevity of the scent.
+        </string>
+    </photos>
+
+    <photos>
+        <string name="id">2</string>
+        <string name="url">
+            https://images.unsplash.com/photo-1615108395437-df128ad79e80?ixlib=rb-4.0.3&amp;
+            ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cGVyZnVtZXN8ZW58MHx8MHx8&amp;w=1000&amp;q=80
+        </string>
+        <string name="title">Product 3</string>
+        <string name="caption">There is much confusion over the term \"cologne\", which has three
+            meanings. The first and oldest definition refers to a family of fresh, citrus-based
+            fragrances distilled using extracts from citrus, floral, and woody
+            ingredients.
+        </string>
+    </photos>
+
+    <photos>
+        <string name="id">3</string>
+        <string name="url">
+            https://media.istockphoto.com/id/1302870417/photo/glass-bottle-of-fragrant-eau-de-toilette-against-a-background-of-pink-peonies-female-perfume.jpg?b=1
+            &amp;s=170667a&amp;w=0&amp;k=20&amp;c=MvbxFwRBbwbu80_4zzjuCnNTyOmZUSapBfe9SOx7JS0=
+        </string>
+        <string name="title">Product 4</string>
+        <string name="caption">Finally, the term \"cologne\" has entered the English language as a
+            generic, overarching term to denote a fragrance typically worn by a man as opposed to a
+            woman, regardless of its concentration. The actual product worn by a man may technically
+            be an eau de toilette, but he may still say that he \"wears cologne\".
+        </string>
+    </photos>
+
+    <photos>
+        <string name="id">4</string>
+        <string name="url">
+            https://images.unsplash.com/photo-1595425959632-34f2822322ce?ixlib=rb-4.0.3&amp;
+            ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHBlcmZ1bWV8ZW58MHx8MHx8&amp;w=1000&amp;q=80
+        </string>
+        <string name="title">Product 5</string>
+        <string name="caption">Product 5", "Classical colognes first appeared in Europe in the 17th
+            century. The first fragrance labeled a \"parfum\" extract with a high concentration of
+            aromatic compounds was Guerlain's Jicky in 1889. Eau de toilette appeared alongside
+            parfum around the turn of the century.
+        </string>
+    </photos>
+</resources>
